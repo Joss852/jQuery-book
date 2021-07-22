@@ -1,0 +1,33 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: black;
+}
+
+#main {
+    padding-top: 30px;
+}
+
+.page {
+    padding: 40px;
+    height: 100%;
+    text-align: justify;
+    color: #666;
+}
+
+.cover {
+    background-color: #6e6e6e;
+    color: white;
+}
+
+h2 {
+    font: lighter 20px Verdana;
+    padding: 10px;
+}
+
+p {
+    font: lighter 15px Verdana;
+}
